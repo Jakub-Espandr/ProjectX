@@ -1,0 +1,53 @@
+Non-Commercial Public License (NCPL v1.0)
+Copyright © 2025  
+Jakub Ešpandr - Born4Flight, FlyCamCzech
+
+
+Preamble
+--------
+This software is **free to use** for personal, educational, or research purposes.  
+Any modification or derivative work requires **prior written consent** from the author.  
+Commercial use of any kind is prohibited unless a separate commercial licence is obtained.
+
+
+1. Permissions (Non-Commercial Only)
+------------------------------------
+You *may*:
+
+• **Run / Use** the unmodified software — only for non-commercial purposes.  
+• **Study** the source code — non-commercial only.  
+• **Share** exact (unmodified) copies — provided  
+  – this licence remains intact, and  
+  – redistribution is strictly non-commercial.
+
+
+2. Restrictions
+---------------
+You *may not*:
+
+1. **Modify** or create derivative works **without prior written permission** from all copyright holders.  
+2. **Use, copy, or distribute** the software or derivatives **for commercial gain** (selling, licensing, bundling, SaaS, paid support, etc.).  
+3. Incorporate the software in proprietary or closed-source products.  
+4. Remove or alter copyright or licence notices.
+
+
+3. Commercial Licensing
+-----------------------
+Commercial use (including but not limited to selling, sublicensing, or offering paid services that depend on this software) **requires a separate commercial licence** from the author.  
+Contact the copyright holders to negotiate terms.
+
+
+4. No Warranty
+--------------
+THE SOFTWARE IS PROVIDED **“AS IS”**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.  
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
+
+
+5. Suggested Notice (for individual source files)
+-------------------------------------------------
+/*
+ * This file is part of a project released under the
+ * Non-Commercial Public Licence (NCPL v1.0).
+ * Modifications require prior author consent.
+ * See the LICENSE file for details.
+ */
